@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\RiderProjects\\Practice_preperations for git extensions\\SeleniumTestoforPractice_Grekhov\\SeleniumTestoforPractice_Grekhov.csproj": {}
+    "D:\\RiderProjects\\Practice_preperations\\SeleniumTestoforPractice_Grekhov\\SeleniumTestoforPractice_Grekhov.csproj": {}
   },
   "projects": {
-    "D:\\RiderProjects\\Practice_preperations for git extensions\\SeleniumTestoforPractice_Grekhov\\SeleniumTestoforPractice_Grekhov.csproj": {
+    "D:\\RiderProjects\\Practice_preperations\\SeleniumTestoforPractice_Grekhov\\SeleniumTestoforPractice_Grekhov.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\RiderProjects\\Practice_preperations for git extensions\\SeleniumTestoforPractice_Grekhov\\SeleniumTestoforPractice_Grekhov.csproj",
+        "projectUniqueName": "D:\\RiderProjects\\Practice_preperations\\SeleniumTestoforPractice_Grekhov\\SeleniumTestoforPractice_Grekhov.csproj",
         "projectName": "SeleniumTestoforPractice_Grekhov",
-        "projectPath": "D:\\RiderProjects\\Practice_preperations for git extensions\\SeleniumTestoforPractice_Grekhov\\SeleniumTestoforPractice_Grekhov.csproj",
+        "projectPath": "D:\\RiderProjects\\Practice_preperations\\SeleniumTestoforPractice_Grekhov\\SeleniumTestoforPractice_Grekhov.csproj",
         "packagesPath": "C:\\Users\\delna\\.nuget\\packages\\",
-        "outputPath": "D:\\RiderProjects\\Practice_preperations for git extensions\\SeleniumTestoforPractice_Grekhov\\obj\\",
+        "outputPath": "D:\\RiderProjects\\Practice_preperations\\SeleniumTestoforPractice_Grekhov\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\delna\\AppData\\Roaming\\NuGet\\NuGet.Config"
