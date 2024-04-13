@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YbBYLLiXfyBOgOxPJMk/RLDg5w9CpqcZUUnTejtiVWV1YYEk3fxH/nfe4fgzTt4JLYLvQrBbd+ZGpGQB8VLkbg==",
+  "dgSpecHash": "SQ8+8Wsy7E2Wwf3fM7BzH8GZKp4bQU1nQ8t1sXZsC+LssPnZal4Dp0N+TAOD90Ovp33ZpXamejMLpXgIzbMtTg==",
   "success": true,
-  "projectFilePath": "D:\\RiderProjects\\Practice_preperations\\SeleniumTestoforPractice_Grekhov\\SeleniumTestoforPractice_Grekhov.csproj",
+  "projectFilePath": "D:\\RiderProjects\\Practice_preperations for git extensions\\SeleniumTestoforPractice_Grekhov\\SeleniumTestoforPractice_Grekhov.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\delna\\.nuget\\packages\\microsoft.codecoverage\\17.10.0-release-24177-07\\microsoft.codecoverage.17.10.0-release-24177-07.nupkg.sha512",
     "C:\\Users\\delna\\.nuget\\packages\\microsoft.net.test.sdk\\17.10.0-release-24177-07\\microsoft.net.test.sdk.17.10.0-release-24177-07.nupkg.sha512",
